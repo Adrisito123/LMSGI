@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina Adrian</title>
+    <style>
+        body{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 10px;
+            background-color: rgb(0 , 128 , 128);
+        }
+        legend{
+            font-weight: bold; 
+            text-align: center;
+            font-family: Verdana;
+            font-size: 12px;
+        }
+        label{
+            color: rgb(0 , 128 ,128);
+            font-weight: bold;
+        }
+        fieldset{
+            background-color: rgb(192 , 192 ,192);
+            margin-bottom: 10px;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <form action="paginaadrian.com" method="post" enctype="text/plain">
+       <fieldset>
+        <legend  accesskey="1">1.Informacion Personal</legend>
+        <p>Apellidos:<input type="text" name="aapp" size="50"><br>
+        Nombre:<input type="text" name="Nombre" size="25"><br>
+        Correo:<input type="text" name="email" size="20"><br>
+        ¿Cómo llegaste aqui?<select name="Vias" size="1">
+            <option>Al azar</option>
+            <option>lguien le dijo la URL</option>
+            <option>A traves de un prohgrama buscador</option>
+            <option>Mediante un enlace dede otra página</option>
+        </select>
+        <p>¿Dame más información sobre ti?</p>
+        <blockquote>
+            <p><input type="checkbox" name="opcion" value="ON" checked>Estudias<br>
+            <input type="checkbox" name="opcion" value="ON" checked>Más de 18 <br>
+            <input type="checkbox" name="opcion" value="ON" checked>Carnet de conducir <br>
+            <input type="checkbox" name="opcion" value="ON" checked>Soltero<br>
+            <input type="checkbox" name="opcion" value="ON" checked>Te gusta el futbol <br>
+            </p>
+        </blockquote>
+        <p>¿Sexo?</p>
+        <blockquote>
+            <p><input type="radio" name="sexo" value="Hombre" checked>Hombre</p>
+            <p><input type="radio" name="sexo" value="Mujer" checked>Mujer</p>
+        </blockquote>
+    </fieldset>
+    <fieldset>
+    <legend accesskey="2">2.Estudios</legend>
+        <p>¿Que estudias?</p>
+        <select name="Vias" size="1">
+            <option>Informatica</option>
+            <option>ADE</option>
+            <option>Ingenieria</option>
+            <option>Medicina</option>
+        </select>
+    </fieldset>
+    <fieldset>
+        <legend accesskey="3">3.Ayuda</legend>
+        <p>¿Alguna duda?</p>
+        <p><input type="text" name="texto" value="Escribe aqui"></p>
+        <form action="malito:alsastre@redestb.es" method="post" enctype="multipart/form-data">
+            <p>Fichero a enviar<input type="file" name="Fichero"></p>
+        </form>
+    </fieldset>
+        </p>
+        <button name="submit"  value="submit" type="submit">
+            Enviar datos&nbsp; <img src="giphy.webp" alt="Enviar los datos del formulario" width="32" height="30" align="middle">
+        </button>
+        <button name="submit"  value="submit" type="submit">
+            Borrar datos&nbsp; <img src="giphy (1).webp" alt="Borrar datos introducidos" width="32" height="30" align="middle">
+        </button>
+    </form>
+</body>
+</html>
