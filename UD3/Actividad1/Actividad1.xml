@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+    <libro>
+        <autor>
+            <nombre>Gabriel</nombre>
+            <apellido1>García</apellido1>
+            <apellido2>Márquez</apellido2>
+            <genero>Hombre</genero>
+        </autor>
+        <genero>Realismo  mágico</genero>
+        <titulo>Cien años de soledad</titulo>
+        <editorial>Sudamericana</editorial>
+        <ISBN> 978-0-06-088328-7</ISBN>
+        <fecha_publicacion>1967</fecha_publicacion>
+    </libro>
+    <libro>
+        <autor>
+            <nombre>Isabel</nombre>
+            <apellido1>Allende</apellido1>
+            <apellido2>Llona</apellido2>
+            <genero>Mujer</genero>
+        </autor>
+        <genero>Realismo  máico</genero>
+        <titulo>La casa de los espíritus</titulo>
+        <editorial>Plaza y Janés</editorial>
+        <ISBN>978-84-01-51216-9</ISBN>
+        <fecha_publicacion>1982</fecha_publicacion>
+    </libro>
+    <libro>
+        <autor>
+            <nombre>Mario Fernando</nombre>
+            <apellido1>Vargas</apellido1>
+            <apellido2>Llosa</apellido2>
+            <genero>Hombre</genero>
+        </autor>
+        <genero>Novela contemporánea</genero>
+        <titulo>La ciudad y los perros</titulo>
+        <editorial>978-84-322-3254-6</editorial>
+        <ISBN>978-84-322-3254-6</ISBN>
+        <fecha_publicacion>1963</fecha_publicacion>
+    </libro>
+    <libro>
+        <autor>
+            <nombre>Joanne</nombre>
+            <apellido1>Kathleen</apellido1>
+            <apellido2>Rowling</apellido2>
+            <genero>Hombre</genero>
+        </autor>
+        <genero>Fantasía</genero>
+        <titulo>Harry Potter y la piedra filosofal</titulo>
+        <editorial>Salamandra</editorial>
+        <ISBN>978-84-7369-601-0</ISBN>
+        <fecha_publicacion>1997</fecha_publicacion>
+    </libro>
+    <libro>
+        <autor>
+            <nombre>Eric</nombre>
+            <apellido1>Arthur</apellido1>
+            <apellido2>Blair</apellido2>
+            <genero>Hombre</genero>
+        </autor>
+        <genero>Distopia</genero>
+        <titulo>1984</titulo>
+        <editorial>Secker y Warburg</editorial>
+        <ISBN>978-0-452-28423-4</ISBN>
+        <fecha_publicacion>1949</fecha_publicacion>
+    </libro>
+    <libro>
+        <autor>
+            <nombre>Jane</nombre>
+            <apellido1>Austen</apellido1>
+            <apellido2>Márquez</apellido2>
+            <genero>Hombre</genero>
+        </autor>
+        <genero>Novela romántica</genero>
+        <titulo>Orgullo y perjurio</titulo>
+        <editorial>T. Egerton </editorial>
+        <ISBN>978-1-85326-000-1</ISBN>
+        <fecha_publicacion>1813</fecha_publicacion>
+    </libro>
+    <libro>
+        <autor>
+            <nombre>Fiódor</nombre>
+            <apellido1>Mijáilovich</apellido1>
+            <apellido2>Dostoyevski</apellido2>
+            <genero>Hombre</genero>
+        </autor>
+        <genero>Novela pscológica</genero>
+        <titulo>Crimen y castigo</titulo>
+        <editorial> The Russian Messenger</editorial>
+        <ISBN>978-0-14-044913-6</ISBN>
+        <fecha_publicacion>1866</fecha_publicacion>
+    </libro>
+    <libro>
+        <autor>
+            <nombre>Franz</nombre>
+            <apellido1>Kafka</apellido1>
+            <apellido2>Márquez</apellido2>
+            <genero>Hombre</genero>
+        </autor>
+        <genero>Surrealismo</genero>
+        <titulo>La metemorfosis</titulo>
+        <editorial>Fischer Verlag</editorial>
+        <ISBN>978-0-14-118290-9</ISBN>
+        <fecha_publicacion>1915</fecha_publicacion>
+    </libro>
+    <libro>
+        <autor>
+            <nombre>Clhoe</nombre>
+            <apellido1>Anthony</apellido1>
+            <apellido2>Wofford</apellido2>
+            <genero>Mujer</genero>
+        </autor>
+        <genero>Literario</genero>
+        <titulo>Beloved</titulo>
+        <editorial>Alfred A. Knopf</editorial>
+        <ISBN>978-1-4000-3340-3</ISBN>
+        <fecha_publicacion>1987</fecha_publicacion>
+    </libro>
+    <libro>
+        <autor>
+            <nombre>Ray</nombre>
+            <apellido1>Douglas</apellido1>
+            <apellido2>Bradburry</apellido2>
+            <genero>Hombre</genero>
+        </autor>
+        <genero>Ciencia ficción</genero>
+        <titulo>Fahrenheit 451</titulo>
+        <editorial>Ballantine Books</editorial>
+        <ISBN> 978-1-4516-7331-9</ISBN>
+        <fecha_publicacion>1953</fecha_publicacion>
+    </libro>
+   
+</libreria>
