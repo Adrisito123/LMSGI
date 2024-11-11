@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria xmlns:s="Libreria_genero" xmlns:g="genero_persona">
+    <libro>
+        <autor>
+            <nombre>Gabriel</nombre>
+            <apellido1>García</apellido1>
+            <apellido2>Márquez</apellido2>
+            <g:genero>Hombre</g:genero>
+        </autor>
+        <s:genero>Realismo  mágico</s:genero>
+        <titulo>Cien años de soledad</titulo>
+        <editorial>Sudamericana</editorial>
+        <ISBN> 978-0-06-088328-7</ISBN>
+        <fecha_publicacion>1967</fecha_publicacion>
+    </libro>
+</libreria>
