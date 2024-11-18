@@ -1,0 +1,20 @@
+{
+    "personajes": [
+      {
+        "nombre": "Aventurero",
+        "nivel": 2,
+        "clase": "Guerrero"
+      },
+      {
+        "nombre": "Mago",
+        "nivel": 5,
+        "clase": "Hechicero"
+      },
+      {
+        "nombre": "Arquero",
+        "nivel": 3,
+        "clase": "Ranger"
+      }
+    ]
+  }
+  
