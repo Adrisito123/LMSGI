@@ -1,0 +1,87 @@
+{
+    "estudiantes": [
+      {
+        "id_estudiante": 1,
+        "nombre": "Juan Pérez",
+        "edad": 16,
+        "asignaturas": [
+          {
+            "id_asignatura": 101,
+            "nombre": "Base de Datos",
+            "calificacion": 8.5
+          },
+          {
+            "id_asignatura": 102,
+            "nombre": "Entorno de Desarrollo",
+            "calificacion": 7
+          }
+        ]
+      },
+      {
+        "id_estudiante": 2,
+        "nombre": "Adrián Aránegas",
+        "edad": 19,
+        "asignaturas": [
+          {
+            "id_asignatura": 101,
+            "nombre": "Base de Datos",
+            "calificacion": 9
+          },
+          {
+            "id_asignatura": 103,
+            "nombre": "Entorno de Desarrollo",
+            "calificacion": 9
+          }
+        ]
+      }
+    ],
+    "profesores": [
+      {
+        "id_profesor": 1,
+        "nombre": "Carlos Martínez",
+        "edad": 40,
+        "asignaturas": [
+          {
+            "id_asignatura": 101,
+            "nombre": "Base de Datos",
+            "creditos": 5
+          },
+          {
+            "id_asignatura": 102,
+            "nombre": "Entorno de Desarrollo",
+            "creditos": 4
+          }
+        ]
+      },
+      {
+        "id_profesor": 2,
+        "nombre": "Marta López",
+        "edad": 35,
+        "asignaturas": [
+          {
+            "id_asignatura": 103,
+            "nombre": "Lenguajes de Marcas",
+            "creditos": 4
+          }
+        ]
+      }
+    ],
+    "asignaturas": [
+      {
+        "id_asignatura": 101,
+        "nombre": "Base de Datos",
+        "creditos": 5
+      },
+      {
+        "id_asignatura": 102,
+        "nombre": "Entorno de Desarrollo",
+        "creditos": 4
+      },
+      {
+        "id_asignatura": 103,
+        "nombre": "Lenguajes de Marcas",
+        "creditos": 4
+      }
+    ]
+  }
+  

@@ -1,0 +1,49 @@
+{
+    "proyectos": [
+      {
+        "id": 1,
+        "nombre": "Sistema de Gestión",
+        "equipo": [
+          {"id": 101, "nombre": "Juan Pérez"},
+          {"id": 102, "nombre": "María Rodríguez"},
+          {"id":107, "nombre": "Cristiano Ronaldo"}
+        ],
+        "tareas": [
+          {"id": 201, "descripcion": "Diseño de la interfaz", "completada": true},
+          {"id": 202, "descripcion": "Desarrollo del backend", "completada": true}
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Aplicación Móvil",
+        "equipo": [
+          {"id": 103, "nombre": "Carlos Gómez"},
+          {"id": 104, "nombre": "Ana López"}
+        ],
+        "tareas": [
+          {"id": 203, "descripcion": "Desarrollo de funciones principales", "completada": true},
+          {"id": 204, "descripcion": "Pruebas de rendimiento", "completada": true}
+        ]
+      },
+      {
+        "id": 3,
+        "nombre": "Aplicación Web",
+        "equipo":[
+          {
+            "id": 105, "nombre": "Adrián Aránegas"
+          },
+          {
+              "id":  106, "nombre": "Alejandro Gonzalez"
+          }
+        ] ,
+        "tareas":[
+          {
+            "id": 205, "descripcion": "Desarrollo de Informacion", "completada": true
+          },
+          {
+            "id":206, "descripcion": "Prueba de Aplicacion", "completada": true
+          }
+        ]
+      }
+    ]
+  }

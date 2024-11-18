@@ -1,0 +1,34 @@
+{
+    "empleados": [
+        {
+            "id": 1,
+            "nombre": "Adrián Aránegas",
+            "edad": 19,
+            "cargo": "Diseñador de Páginas Web",
+            "salario": 30000,
+            "proyectos": [
+                {"nombre": "Juanddrawing", "fecha_inicio": "15/11/2024", "tareas": "Diseño de Páginas"}
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "Cristiano Ronaldo",
+            "edad": 25,
+            "cargo": "Desarrolladora Backend",
+            "salario": 45000, 
+            "proyectos": [
+                {"nombre": "AppBingo", "fecha_inicio": "01/09/2024", "tareas": "Desarrollo de APIs"}
+            ]
+        },
+        {
+            "id": 3,
+            "nombre": "Vinicius  JR",
+            "edad": 32,
+            "cargo": "Gerente de Proyectos",
+            "salario": 65000,
+            "proyectos": [
+                {"nombre": "ProjectX", "fecha_inicio": "01/06/2024", "tareas": "Gestión de Proyectos"}
+            ]
+        }
+    ]
+}
