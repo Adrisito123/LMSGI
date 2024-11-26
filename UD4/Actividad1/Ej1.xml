@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca [
+  <!ELEMENT biblioteca (libro+)>
+  <!ELEMENT libro (titulo, autor, año, editorial, isbn)>
+  <!ELEMENT titulo (#PCDATA)>
+  <!ELEMENT autor (#PCDATA)>
+  <!ELEMENT año (#PCDATA)>
+  <!ELEMENT editorial (#PCDATA)>
+  <!ELEMENT isbn (#PCDATA)>
+]>
+<biblioteca>
+  <libro>
+    <titulo>Don Quijote de la Mancha</titulo>
+    <autor>Miguel de Cervantes</autor>
+    <año>1605</año>
+    <editorial>Real Academia Española</editorial>
+    <isbn>978-3-16-148410-0</isbn>
+  </libro>
+  <libro>
+    <titulo>Orgullo y prejuicio</titulo>
+    <autor>Jane Austen</autor>
+    <año>1813</año>
+    <editorial>Penguin Classics</editorial>
+    <isbn>978-0-14-143951-8</isbn>
+  </libro>
+  <libro>
+    <titulo>Cien años de soledad</titulo>
+    <autor>Gabriel García Márquez</autor>
+    <año>1967</año>
+    <editorial>Editorial Sudamericana</editorial>
+    <isbn>978-3-16-148410-1</isbn>
+  </libro>
+  <libro>
+    <titulo>1984</titulo>
+    <autor>George Orwell</autor>
+    <año>1949</año>
+    <editorial>Secker Y Warburg</editorial>
+    <isbn>978-0-452-28423-4</isbn>
+  </libro>
+  <libro>
+    <titulo>La sombra del viento</titulo>
+    <autor>Carlos Ruiz Zafón</autor>
+    <año>2001</año>
+    <editorial>Planeta</editorial>
+    <isbn>978-0-06-089858-1</isbn>
+  </libro>
+  <libro>
+    <titulo>El nombre de la rosa</titulo>
+    <autor>Umberto Eco</autor>
+    <año>1980</año>
+    <editorial>Harper y Row</editorial>
+    <isbn>978-0-06-250607-4</isbn>
+  </libro>
+  <libro>
+    <titulo>Fahrenheit 451</titulo>
+    <autor>Ray Bradbury</autor>
+    <año>1953</año>
+    <editorial>Ballantine Books</editorial>
+    <isbn>978-1-4516-7331-9</isbn>
+  </libro>
+  <libro>
+    <titulo>El gran Gatsby</titulo>
+    <autor>F. Scott Fitzgerald</autor>
+    <año>1925</año>
+    <editorial>Scribner</editorial>
+    <isbn>978-0-7432-7356-5</isbn>
+  </libro>
+  <libro>
+    <titulo>La metamorfosis</titulo>
+    <autor>Franz Kafka</autor>
+    <año>1915</año>
+    <editorial>Schocken Books</editorial>
+    <isbn>978-0-14-118102-2</isbn>
+  </libro>
+  <libro>
+    <titulo>Crimen y castigo</titulo>
+    <autor>Fyodor Dostoevsky</autor>
+    <año>1866</año>
+    <editorial>Penguin Classics</editorial>
+    <isbn>978-0-14-044913-6</isbn>
+  </libro>
+</biblioteca>

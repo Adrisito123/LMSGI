@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concesionario SYSTEM "Ej1.dtd">
+<concesionario>
+    <coche>
+        <codigo>C12345</codigo>
+        <marca>Ford</marca>
+        <modelo>Focus</modelo>
+        <matricula>1234ABC</matricula>
+        <potencia>120</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+    <coche>
+        <codigo>C12346</codigo>
+        <marca>Volkswagen</marca>
+        <modelo>Golf</modelo>
+        <matricula>5678DEF</matricula>
+        <potencia>150</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+</concesionario>
