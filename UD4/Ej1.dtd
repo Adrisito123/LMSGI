@@ -1,7 +1,0 @@
-<!ELEMENT biblioteca (libro+)>
-<!ELEMENT libro (titulo, autor, año, editorial, isbn)>
-<!ELEMENT titulo (#PCDATA)>
-<!ELEMENT autor (#PCDATA)>
-<!ELEMENT año (#PCDATA)>
-<!ELEMENT editorial (#PCDATA)>
-<!ELEMENT isbn (#PCDATA)>
