@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gestoria SYSTEM "Actividad1.dtd">
+<gestoria>
+    <sede>
+        <codigoSede>A1234567</codigoSede>
+        <nombreEmpleado>Adrian</nombreEmpleado>
+        <fechaAlta>29-09-2020</fechaAlta>
+
+        <clientes>
+            <cliente>
+                <codigoCliente>abc-123</codigoCliente>
+                <descripcionCliente>solvente</descripcionCliente>
+                <numeroVivienda>19</numeroVivienda>
+                <costeVivienda>145000€</costeVivienda> 
+                <resumenViviendas>Poducto muy fragil</resumenViviendas>
+                <plazoAltaHacienda>12</plazoAltaHacienda>
+            </cliente>
+            <cliente>
+                <codigoCliente>def-456</codigoCliente>
+                <descripcionCliente>solvente</descripcionCliente>
+                <numeroVivienda>2</numeroVivienda>
+                <costeVivienda>45000€</costeVivienda> 
+                <resumenViviendas>Poducto muy fragil</resumenViviendas>
+                <plazoAltaHacienda>5</plazoAltaHacienda>
+            </cliente>
+        </clientes>
+    </sede>
+</gestoria>

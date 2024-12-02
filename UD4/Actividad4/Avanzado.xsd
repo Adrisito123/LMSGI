@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="Gestoria">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Sede" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Codigo" type="xs:string"/>
+              <xs:element name="Direccion" type="xs:string" minOccurs="0"/>
+              <xs:element name="DepartamentoEntrada" type="xs:string"/>
+              <xs:element name="DepartamentoGestionClientes" type="xs:string"/>
+            </xs:sequence>
+            <xs:attribute name="Codigo" type="xs:string" use="required"/>
+            <xs:attribute name="EmpleadoAlta" type="xs:string" use="required"/>
+            <xs:attribute name="FechaAlta" type="xs:date" use="required"/>
+          </xs:complexType>
+        </xs:element>
+
+        <xs:element name="ClienteNDatos" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Descripcion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:enumeration value="solvente"/>
+                    <xs:enumeration value="insolvente"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NumeroViviendas" type="xs:int"/>
+              <xs:element name="Vivienda" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Coste" type="xs:decimal"/>
+                    <xs:element name="Resumen" type="xs:string"/>
+                    <xs:element name="Plazo" type="xs:int"/>
+                  </xs:sequence>
+                  <xs:attribute name="ID" type="xs:string" use="required"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="Codigo" type="xs:string" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

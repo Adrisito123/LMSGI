@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gestoria SYSTEM "Actividad1.dtd">
+<gestoria>
+  <sede>
+    <codigoSede>A9876543</codigoSede>
+    <nombreEmpleado>Carlos Rodríguez</nombreEmpleado>
+    <fechaAlta>10-11-2023</fechaAlta>
+    <clientes>
+      <cliente>
+        <codigoCliente>ABC-789</codigoCliente>
+        <descripcionCliente>solvente</descripcionCliente>
+        <numeroVivienda>4</numeroVivienda>
+        <costeVivienda>200000€</costeVivienda>
+        <resumenViviendas>Excelente estado</resumenViviendas>
+        <plazoAltaHacienda>6</plazoAltaHacienda>
+      </cliente>
+      <cliente>
+        <codigoCliente>XYZ-456</codigoCliente>
+        <descripcionCliente>insolvente</descripcionCliente>
+        <numeroVivienda>1</numeroVivienda>
+        <costeVivienda>85000€</costeVivienda>
+        <resumenViviendas>En mal estado</resumenViviendas>
+        <plazoAltaHacienda>2</plazoAltaHacienda>
+      </cliente>
+    </clientes>
+  </sede>
+</gestoria>
