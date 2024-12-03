@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Informe SYSTEM "editorial.dtd">
+<Informe>
+  <Cabecera>
+    <Descripcion>Informe de ventas para las regiones Norte, Centro y Sur</Descripcion>
+    <Fecha>22-09-2018</Fecha>
+  </Cabecera>
+  <Datos>
+    <Region nombre="Norte">
+      <Trimestre numero="1">
+        <LibrosVendidos>24000</LibrosVendidos>
+      </Trimestre>
+      <Trimestre numero="2">
+        <LibrosVendidos>38600</LibrosVendidos>
+      </Trimestre>
+      <Trimestre numero="3">
+        <LibrosVendidos>NO_INFO</LibrosVendidos>
+      </Trimestre>
+      <Trimestre numero="4">
+        <LibrosVendidos>NO_INFO</LibrosVendidos>
+      </Trimestre>
+    </Region>
+    <Region nombre="Centro">
+      <Trimestre numero="1">
+        <LibrosVendidos>NO_INFO</LibrosVendidos>
+      </Trimestre>
+      <Trimestre numero="2">
+        <LibrosVendidos>16080</LibrosVendidos>
+      </Trimestre>
+      <Trimestre numero="3">
+        <LibrosVendidos>25000</LibrosVendidos>
+      </Trimestre>
+      <Trimestre numero="4">
+        <LibrosVendidos>NO_INFO</LibrosVendidos>
+      </Trimestre>
+    </Region>
+    <Region nombre="Sur">
+      <Trimestre numero="1">
+        <LibrosVendidos>27000</LibrosVendidos>
+      </Trimestre>
+      <Trimestre numero="2">
+        <LibrosVendidos>31400</LibrosVendidos>
+      </Trimestre>
+      <Trimestre numero="3">
+        <LibrosVendidos>40100</LibrosVendidos>
+      </Trimestre>
+      <Trimestre numero="4">
+        <LibrosVendidos>30000</LibrosVendidos>
+      </Trimestre>
+    </Region>
+  </Datos>
+</Informe>
