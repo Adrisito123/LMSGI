@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE modulos SYSTEM "modulos.dtd">
+<modulos>
+    <modulo nombre="Entornos de Desarrollo">
+        <contenidos>
+            <ud>
+                <tipo>Teorico</tipo>
+                <descripcion>Base teorica sobre git y su entorno</descripcion>
+            </ud>
+            <ud>
+                <tipo>Practico</tipo>
+                <descripcion>Taller practico de git</descripcion>
+            </ud>
+        </contenidos>
+    </modulo>
+    <modulo nombre="Programacion">
+        <contenidos>
+            <ud>
+                <tipo>Teorico</tipo>
+                <descripcion>Base sobre que es la programacion</descripcion>
+            </ud>
+            <ud>
+                <tipo>Practico</tipo>
+                <descripcion>Iniciando java</descripcion>
+            </ud>
+        </contenidos>
+    </modulo>
+</modulos>
