@@ -1,0 +1,25 @@
+{
+    "concesionario": {
+      "coche": [
+        {
+          "codigo": "C12345",
+          "marca": "Ford",
+          "modelo": "Focus",
+          "matricula": "1234ABC",
+          "potencia": 120,
+          "plazas": 5,
+          "puertas": 5
+        },
+        {
+          "codigo": "C12346",
+          "marca": "Volkswagen",
+          "modelo": "Golf",
+          "matricula": "5678DEF",
+          "potencia": 150,
+          "plazas": 5,
+          "puertas": 5
+        }
+      ]
+    }
+  }
+  

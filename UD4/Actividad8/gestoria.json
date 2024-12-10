@@ -1,0 +1,30 @@
+{
+    "gestoria": {
+      "sede": {
+        "codigoSede": "A1234567",
+        "nombreEmpleado": "Adrian",
+        "fechaAlta": "2020-09-29",
+        "clientes": {
+          "cliente": [
+            {
+              "codigoCliente": "abc-123",
+              "descripcionCliente": "solvente",
+              "numeroVivienda": 19,
+              "costeVivienda": "145000€",
+              "resumenViviendas": "Poducto muy fragil",
+              "plazoAltaHacienda": 12
+            },
+            {
+              "codigoCliente": "def-456",
+              "descripcionCliente": "solvente",
+              "numeroVivienda": 2,
+              "costeVivienda": "45000€",
+              "resumenViviendas": "Poducto muy fragil",
+              "plazoAltaHacienda": 5
+            }
+          ]
+        }
+      }
+    }
+  }
+  

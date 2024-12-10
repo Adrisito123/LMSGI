@@ -1,0 +1,16 @@
+{
+    "Alumnos": [
+      {
+        "NIF": "34567890C",
+        "Resultado": "apto",
+        "IP": "192.168.1.2",
+        "Observaciones": "Excelente rendimiento en clase"
+      },
+      {
+        "NIF": "98765432D",
+        "Resultado": "apto",
+        "MAC": "00:1C:23:12:4D:F8"
+      }
+    ]
+  }
+  

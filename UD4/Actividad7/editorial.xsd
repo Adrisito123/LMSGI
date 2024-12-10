@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="Informe">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Cabecera">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Descripcion" type="xs:string"/>
+              <xs:element name="Fecha" type="xs:date"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Datos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Region" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Trimestre" maxOccurs="4">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="LibrosVendidos" type="xs:string"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                      <xs:attribute name="numero" type="xs:int" use="required"/>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="nombre" type="xs:string" use="required"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

@@ -1,0 +1,35 @@
+{
+    "modulos": [
+      {
+        "nombre": "Entornos de Desarrollo",
+        "contenidos": {
+          "ud": [
+            {
+              "tipo": "Teorico",
+              "descripcion": "Base teorica sobre git y su entorno"
+            },
+            {
+              "tipo": "Practico",
+              "descripcion": "Taller practico de git"
+            }
+          ]
+        }
+      },
+      {
+        "nombre": "Programacion",
+        "contenidos": {
+          "ud": [
+            {
+              "tipo": "Teorico",
+              "descripcion": "Base sobre que es la programacion"
+            },
+            {
+              "tipo": "Practico",
+              "descripcion": "Iniciando java"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  

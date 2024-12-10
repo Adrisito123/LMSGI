@@ -1,0 +1,74 @@
+{
+    "Cabecera": {
+      "Descripcion": "Informe de ventas para las regiones Norte, Centro y Sur",
+      "Fecha": "2018-09-22"
+    },
+    "Datos": {
+      "Region": [
+        {
+          "nombre": "Norte",
+          "Trimestre": [
+            {
+              "numero": 1,
+              "LibrosVendidos": "24000"
+            },
+            {
+              "numero": 2,
+              "LibrosVendidos": "38600"
+            },
+            {
+              "numero": 3,
+              "LibrosVendidos": "NO_INFO"
+            },
+            {
+              "numero": 4,
+              "LibrosVendidos": "NO_INFO"
+            }
+          ]
+        },
+        {
+          "nombre": "Centro",
+          "Trimestre": [
+            {
+              "numero": 1,
+              "LibrosVendidos": "NO_INFO"
+            },
+            {
+              "numero": 2,
+              "LibrosVendidos": "16080"
+            },
+            {
+              "numero": 3,
+              "LibrosVendidos": "25000"
+            },
+            {
+              "numero": 4,
+              "LibrosVendidos": "NO_INFO"
+            }
+          ]
+        },
+        {
+          "nombre": "Sur",
+          "Trimestre": [
+            {
+              "numero": 1,
+              "LibrosVendidos": "27000"
+            },
+            {
+              "numero": 2,
+              "LibrosVendidos": "31400"
+            },
+            {
+              "numero": 3,
+              "LibrosVendidos": "40100"
+            },
+            {
+              "numero": 4,
+              "LibrosVendidos": "30000"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

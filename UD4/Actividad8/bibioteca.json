@@ -1,0 +1,77 @@
+{
+    "biblioteca": {
+      "libro": [
+        {
+          "titulo": "Don Quijote de la Mancha",
+          "autor": "Miguel de Cervantes",
+          "año": 1605,
+          "editorial": "Real Academia Española",
+          "isbn": "978-3-16-148410-0"
+        },
+        {
+          "titulo": "Orgullo y prejuicio",
+          "autor": "Jane Austen",
+          "año": 1813,
+          "editorial": "Penguin Classics",
+          "isbn": "978-0-14-143951-8"
+        },
+        {
+          "titulo": "Cien años de soledad",
+          "autor": "Gabriel García Márquez",
+          "año": 1967,
+          "editorial": "Editorial Sudamericana",
+          "isbn": "978-3-16-148410-1"
+        },
+        {
+          "titulo": "1984",
+          "autor": "George Orwell",
+          "año": 1949,
+          "editorial": "Secker Y Warburg",
+          "isbn": "978-0-452-28423-4"
+        },
+        {
+          "titulo": "La sombra del viento",
+          "autor": "Carlos Ruiz Zafón",
+          "año": 2001,
+          "editorial": "Planeta",
+          "isbn": "978-0-06-089858-1"
+        },
+        {
+          "titulo": "El nombre de la rosa",
+          "autor": "Umberto Eco",
+          "año": 1980,
+          "editorial": "Harper y Row",
+          "isbn": "978-0-06-250607-4"
+        },
+        {
+          "titulo": "Fahrenheit 451",
+          "autor": "Ray Bradbury",
+          "año": 1953,
+          "editorial": "Ballantine Books",
+          "isbn": "978-1-4516-7331-9"
+        },
+        {
+          "titulo": "El gran Gatsby",
+          "autor": "F. Scott Fitzgerald",
+          "año": 1925,
+          "editorial": "Scribner",
+          "isbn": "978-0-7432-7356-5"
+        },
+        {
+          "titulo": "La metamorfosis",
+          "autor": "Franz Kafka",
+          "año": 1915,
+          "editorial": "Schocken Books",
+          "isbn": "978-0-14-118102-2"
+        },
+        {
+          "titulo": "Crimen y castigo",
+          "autor": "Fyodor Dostoevsky",
+          "año": 1866,
+          "editorial": "Penguin Classics",
+          "isbn": "978-0-14-044913-6"
+        }
+      ]
+    }
+  }
+  
