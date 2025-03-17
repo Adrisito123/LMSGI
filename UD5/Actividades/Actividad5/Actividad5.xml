@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="Actividad5.xsl" type="text/xsl"?>
+<libros>
+  <libro>
+    <isbn>978-3-16-148410-0</isbn>
+    <titulo>El gran libro</titulo>
+    <autor>Juan Pérez</autor>
+    <precio>9.99</precio>
+    <numPaginas>150</numPaginas>
+  </libro>
+  <libro>
+    <isbn>978-0-13-235088-4</isbn>
+    <titulo>Programación en Python</titulo>
+    <autor>Ana García</autor>
+    <precio>12.99</precio>
+    <numPaginas>300</numPaginas>
+  </libro>
+  <libro>
+    <isbn>978-1-23-456789-7</isbn>
+    <titulo>Aprender Java</titulo>
+    <autor>Laura Gómez</autor>
+    <precio>8.99</precio>
+    <numPaginas>200</numPaginas>
+  </libro>
+  <libro>
+    <isbn>978-1-45-233428-4</isbn>
+    <titulo>HTML y CSS</titulo>
+    <autor>Ricardo Sánchez</autor>
+    <precio>7.50</precio>
+    <numPaginas>180</numPaginas>
+  </libro>
+</libros>
