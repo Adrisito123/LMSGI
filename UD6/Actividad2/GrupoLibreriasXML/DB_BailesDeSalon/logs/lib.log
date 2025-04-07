@@ -1,0 +1,42 @@
+12:29:30.783  INFO  [lib DB_BailesDeSalon] Library opened by Qizx 4.4p1
+12:29:30.785  INFO  [lib DB_BailesDeSalon]  location C:\Users\1DAW2425-11\Desktop\Lenguaje de marcas\UD6\Actividad2\GrupoLibreriasXML\DB_BailesDeSalon
+12:29:30.785  INFO  [lib DB_BailesDeSalon]  document storage version=5, lastBId=29, BCount=20, maxA=502
+12:30:19.022  INFO  [lib DB_BailesDeSalon] commit start DB_BailesDeSalon (session 1)
+12:30:19.092  INFO  [lib DB_BailesDeSalon] commit 6 on DB_BailesDeSalon (session 1)
+12:30:19.111  INFO  [lib DB_BailesDeSalon] commit 6 done
+12:30:19.112  INFO  [lib DB_BailesDeSalon] commit end DB_BailesDeSalon (session 1) -> state: [ 1 2 3 4 5 6 ][ 1 2 3 4 5 6 7 ]
+12:32:15.171  INFO  [lib DB_BailesDeSalon] All sessions closed
+12:32:15.174  INFO  [lib DB_BailesDeSalon] Sweeper stopped
+12:32:15.175  INFO  [lib DB_BailesDeSalon] library closed 
+12:33:00.291  INFO  [lib DB_BailesDeSalon] Library opened by Qizx 4.4p1
+12:33:00.292  INFO  [lib DB_BailesDeSalon]  location C:\Users\1DAW2425-11\Desktop\Lenguaje de marcas\UD6\Actividad2\GrupoLibreriasXML\DB_BailesDeSalon
+12:33:00.292  INFO  [lib DB_BailesDeSalon]  document storage version=5, lastBId=33, BCount=24, maxA=502
+12:34:10.264  INFO  [lib DB_BailesDeSalon] All sessions closed
+12:34:10.265  INFO  [lib DB_BailesDeSalon] library closed 
+12:41:56.591  INFO  [lib DB_BailesDeSalon] Library opened by Qizx 4.4p1
+12:41:56.592  INFO  [lib DB_BailesDeSalon]  location C:\Users\1DAW2425-11\Desktop\Lenguaje de marcas\UD6\Actividad2\GrupoLibreriasXML\DB_BailesDeSalon
+12:41:56.592  INFO  [lib DB_BailesDeSalon]  document storage version=5, lastBId=33, BCount=24, maxA=502
+12:42:23.896  INFO  [lib DB_BailesDeSalon] All sessions closed
+12:42:23.897  INFO  [lib DB_BailesDeSalon] library closed 
+12:44:07.094  INFO  [lib DB_BailesDeSalon] Library opened by Qizx 4.4p1
+12:44:07.095  INFO  [lib DB_BailesDeSalon]  location C:\Users\1DAW2425-11\Desktop\Lenguaje de marcas\UD6\Actividad2\GrupoLibreriasXML\DB_BailesDeSalon
+12:44:07.095  INFO  [lib DB_BailesDeSalon]  document storage version=5, lastBId=33, BCount=24, maxA=502
+12:45:21.644  INFO  [lib DB_BailesDeSalon] commit start DB_BailesDeSalon (session 1)
+12:45:21.644  INFO  [lib DB_BailesDeSalon] commit 7 on DB_BailesDeSalon (session 1)
+12:45:21.651  INFO  [lib DB_BailesDeSalon] commit 7 done
+12:45:21.651  INFO  [lib DB_BailesDeSalon] commit end DB_BailesDeSalon (session 1) -> state: [ 1 2 3 4 5 6 ][ 1 2 3 4 5 6 7 ]
+12:45:21.651  INFO  [lib DB_BailesDeSalon] sweeper deleted 1/1 docs: 26 in ms 0.4805
+12:45:21.652  INFO  [lib DB_BailesDeSalon] sweeper deleted 1/1 metadocs: 27
+12:47:30.201  INFO  [lib DB_BailesDeSalon] All sessions closed
+12:47:30.203  INFO  [lib DB_BailesDeSalon] Sweeper stopped
+12:47:30.204  INFO  [lib DB_BailesDeSalon] library closed 
+12:47:48.203  INFO  [lib DB_BailesDeSalon] Library opened by Qizx 4.4p1
+12:47:48.204  INFO  [lib DB_BailesDeSalon]  location C:\Users\1DAW2425-11\Desktop\Lenguaje de marcas\UD6\Actividad2\GrupoLibreriasXML\DB_BailesDeSalon
+12:47:48.204  INFO  [lib DB_BailesDeSalon]  document storage version=5, lastBId=35, BCount=24, maxA=502
+12:49:45.115  INFO  [lib DB_BailesDeSalon] All sessions closed
+12:49:45.116  INFO  [lib DB_BailesDeSalon] library closed 
+12:51:29.613  INFO  [lib DB_BailesDeSalon] Library opened by Qizx 4.4p1
+12:51:29.614  INFO  [lib DB_BailesDeSalon]  location C:\Users\1DAW2425-11\Desktop\Lenguaje de marcas\UD6\Actividad2\GrupoLibreriasXML\DB_BailesDeSalon
+12:51:29.614  INFO  [lib DB_BailesDeSalon]  document storage version=5, lastBId=35, BCount=24, maxA=502
+12:53:07.138  INFO  [lib DB_BailesDeSalon] All sessions closed
+12:53:07.139  INFO  [lib DB_BailesDeSalon] library closed 

@@ -1,0 +1,48 @@
+14:09:22.552  INFO  [LibraryManager] ---- group creation in C:\Users\1DAW2425-11\Desktop\Lenguaje de marcas\UD6\Actividad2\GrupoLibreriasXML
+14:09:22.552  INFO  [LibraryManager]  100
+14:11:01.445  INFO  [LibraryManager] library BD_Libros actually deleted
+14:28:47.396  INFO  [LibraryManager] shutdown begins
+14:28:47.399  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+14:28:47.399  INFO  [LibraryManager] shutdown complete.
+14:28:15.985  INFO  [LibraryManager] ---- starting up ----
+14:28:15.986  INFO  [LibraryManager]  100
+14:28:16.043  INFO  [LibraryManager] Library group ready
+15:00:19.454  INFO  [LibraryManager] shutdown begins
+15:00:19.458  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+15:00:19.458  INFO  [LibraryManager] shutdown complete.
+12:29:30.705  INFO  [LibraryManager] ---- starting up ----
+12:29:30.706  INFO  [LibraryManager]  100
+12:29:30.785  INFO  [LibraryManager] Library group ready
+12:32:15.170  INFO  [LibraryManager] shutdown begins
+12:32:15.175  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+12:32:15.175  INFO  [LibraryManager] shutdown complete.
+12:33:00.222  INFO  [LibraryManager] ---- starting up ----
+12:33:00.222  INFO  [LibraryManager]  100
+12:33:00.293  INFO  [LibraryManager] Library group ready
+12:34:10.264  INFO  [LibraryManager] shutdown begins
+12:34:10.266  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+12:34:10.266  INFO  [LibraryManager] shutdown complete.
+12:41:56.532  INFO  [LibraryManager] ---- starting up ----
+12:41:56.533  INFO  [LibraryManager]  100
+12:41:56.592  INFO  [LibraryManager] Library group ready
+12:42:23.895  INFO  [LibraryManager] shutdown begins
+12:42:23.897  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+12:42:23.897  INFO  [LibraryManager] shutdown complete.
+12:44:07.023  INFO  [LibraryManager] ---- starting up ----
+12:44:07.024  INFO  [LibraryManager]  100
+12:44:07.095  INFO  [LibraryManager] Library group ready
+12:47:30.201  INFO  [LibraryManager] shutdown begins
+12:47:30.205  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+12:47:30.205  INFO  [LibraryManager] shutdown complete.
+12:47:48.137  INFO  [LibraryManager] ---- starting up ----
+12:47:48.138  INFO  [LibraryManager]  100
+12:47:48.204  INFO  [LibraryManager] Library group ready
+12:49:45.115  INFO  [LibraryManager] shutdown begins
+12:49:45.117  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+12:49:45.117  INFO  [LibraryManager] shutdown complete.
+12:51:29.541  INFO  [LibraryManager] ---- starting up ----
+12:51:29.542  INFO  [LibraryManager]  100
+12:51:29.615  INFO  [LibraryManager] Library group ready
+12:53:07.137  INFO  [LibraryManager] shutdown begins
+12:53:07.139  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+12:53:07.139  INFO  [LibraryManager] shutdown complete.

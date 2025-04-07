@@ -1,0 +1,12 @@
+14:11:14.465  INFO  [lib DB_BailesDeSalon] Qizx 4.4p1 creating new XML Library in C:\Users\1DAW2425-11\Desktop\Lenguaje de marcas\UD6\Actividad2\GrupoLibreriasXML\DB_BailesDeSalon
+14:11:14.466  INFO  [lib DB_BailesDeSalon] create storage in C:\Users\1DAW2425-11\Desktop\Lenguaje de marcas\UD6\Actividad2\GrupoLibreriasXML\DB_BailesDeSalon\contents.qdb
+14:11:14.468  INFO  [lib DB_BailesDeSalon] storage created
+14:11:14.489  INFO  [lib DB_BailesDeSalon] library creation done
+14:11:27.699  INFO  [lib DB_BailesDeSalon] commit start DB_BailesDeSalon (session 1)
+14:11:27.719  INFO  [lib DB_BailesDeSalon] commit 1 on DB_BailesDeSalon (session 1)
+14:11:27.734  INFO  [lib DB_BailesDeSalon] commit 1 done
+14:11:27.734  INFO  [lib DB_BailesDeSalon] commit end DB_BailesDeSalon (session 1) -> state: [ 1 ][ 1 2 ]
+14:11:27.735  INFO  [lib DB_BailesDeSalon] sweeper deleted 1/1 metadocs: 5
+14:28:47.398  INFO  [lib DB_BailesDeSalon] All sessions closed
+14:28:47.398  INFO  [lib DB_BailesDeSalon] Sweeper stopped
+14:28:47.399  INFO  [lib DB_BailesDeSalon] library closed 

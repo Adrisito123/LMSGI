@@ -1,0 +1,2 @@
+for $libro in //libro
+return $libro

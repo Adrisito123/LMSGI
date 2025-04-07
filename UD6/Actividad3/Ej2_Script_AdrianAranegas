@@ -1,0 +1,3 @@
+for $libro in //libro
+where $libro/NumPaginas > 500
+return $libro
