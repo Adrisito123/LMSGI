@@ -1,0 +1,20 @@
+let $newBook := 
+<libro>
+    <Cod_Libro>11</Cod_Libro>
+    <Titulo>El código Da Vinci</Titulo>
+    <Editorial>Planeta</Editorial>
+    <Edicion>1</Edicion>
+    <ISBN>1234567890123</ISBN> <!-- ISBN erróneo -->
+    <NumPaginas>450</NumPaginas>
+    <Autores>
+        <autor>
+            <Cod_Autor>11</Cod_Autor>
+            <Nombre>Dan</Nombre>
+            <Apellidos>Brown</Apellidos>
+            <FechaNacimiento>22/06/1964</FechaNacimiento>
+        </autor>
+    </Autores>
+</libro>
+return
+insert nodes $newBook into doc("BD_Libros.xml")/Libros
+

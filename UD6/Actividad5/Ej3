@@ -1,0 +1,40 @@
+declare context item := doc("BD_Libros.xml");
+
+let $books := //libro
+return
+    <html>
+        <head><title>Lista de Libros</title></head>
+        <body>
+            <h1>Libros de la Biblioteca</h1>
+            <table border="1">
+                <tr>
+                    <th>Código</th>
+                    <th>Título</th>
+                    <th>Editorial</th>
+                    <th>Edición</th>
+                    <th>ISBN</th>
+                    <th>Número de Páginas</th>
+                    <th>Autores</th>
+                </tr>
+                {
+                    for $book in $books
+                    return
+                        <tr>
+                            <td>{$book/Cod_Libro/text()}</td>
+                            <td>{$book/Titulo/text()}</td>
+                            <td>{$book/Editorial/text()}</td>
+                            <td>{$book/Edicion/text()}</td>
+                            <td>{$book/ISBN/text()}</td>
+                            <td>{$book/NumPaginas/text()}</td>
+                            <td>
+                                {
+                                    for $author in $book/Autores/autor
+                                    return 
+                                        $author/Nombre/text() || ' ' || $author/Apellidos/text()
+                                }
+                            </td>
+                        </tr>
+                }
+            </table>
+        </body>
+    </html>

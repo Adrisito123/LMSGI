@@ -1,0 +1,38 @@
+let $books := doc("BD_Libros.xml")//libro[NumPaginas > 150]
+return
+    <html>
+        <head><title>Libros con más de 150 páginas</title></head>
+        <body>
+            <h1>Libros con más de 150 páginas</h1>
+            <table border="1">
+                <tr>
+                    <th>Código</th>
+                    <th>Título</th>
+                    <th>Editorial</th>
+                    <th>Edición</th>
+                    <th>ISBN</th>
+                    <th>Número de Páginas</th>
+                    <th>Autores</th>
+                </tr>
+                {
+                    for $book in $books
+                    return
+                        <tr>
+                            <td>{$book/Cod_Libro/text()}</td>
+                            <td>{$book/Titulo/text()}</td>
+                            <td>{$book/Editorial/text()}</td>
+                            <td>{$book/Edicion/text()}</td>
+                            <td>{$book/ISBN/text()}</td>
+                            <td>{$book/NumPaginas/text()}</td>
+                            <td>
+                                {
+                                    for $author in $book/Autores/autor
+                                    return 
+                                        <span>{$author/Nombre/text()} {$author/Apellidos/text()}</span>
+                                }
+                            </td>
+                        </tr>
+                }
+            </table>
+        </body>
+    </html>

@@ -1,0 +1,3 @@
+let $bookToDelete := doc("BD_Libros.xml")/Libros/libro[Cod_Libro = 11]
+return
+    delete nodes $bookToDelete
